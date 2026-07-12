@@ -1,3 +1,4 @@
 # humara-deno
-This is my fast GitHub Repository
-Author Ajmal Ali
+This is my fast GitHub Repository.
+<br>
+Author - Ajmal Ali
